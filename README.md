@@ -6,4 +6,5 @@ In addition to the ristretto features it supports providing a higher order funct
 
 |Version|Description|
 |---|---|
+|0.1.1|Add close method|
 |0.1.0|Initial version|
