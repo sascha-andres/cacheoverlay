@@ -86,17 +86,3 @@ fabric.properties
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-.idea/.gitignore
-.idea/cache-overlay.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/watcherTasks.xml
-cache.go
-cache_test.go
-delete.go
-get.go
-get_test.go
-go.mod
-go.sum
-set.go
